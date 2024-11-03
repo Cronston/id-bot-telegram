@@ -16,7 +16,7 @@
 Download the repository and go to the directory
 
 ```sh
-git clone https://github.com/Cronston/id-bot-telegram
+git clone https://github.com/Cronston/id-bot-telegram.git
 cd id-bot-telegram
 ```
 
@@ -31,3 +31,6 @@ Run the bot
 ```sh
 python main.py
 ```
+## My Social Network
+[Telegram](https://t.me/Big_CyberSec)
+[Youtube](https://www.youtube.com/@ITDirectory)
